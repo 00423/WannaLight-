@@ -1,7 +1,8 @@
 <s∆w>
 <off>
 s0, you probably like alcohol, that you umm.. work for..?
-
+git clone https://github.com/00423/321
+>file
 git clone https://github.com/Penetrum-Security/Malware-Zoo
 git clone https://github.com/Endermanch/MalwareDatabase
 git clone https://github.com/SKocur/Malware-Collection
@@ -49,12 +50,9 @@ dd if=/dev/random of=/dev/sda3. 2b
 dd if=/dev/random of=/dev/sda3. 2c
 <off>
 dd if=/dev/random of=/dev/sda3. 2d
+<-3>
 apt install cryptsetup
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
-umount
-git clone https://github.com/00423/321
->file
-git clone https://github.com/AmericanaPuttenesca/AmericanaPuttenesca
 >file 
 <off>
 BlinkLED: BLACK
